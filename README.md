@@ -1,2 +1,2 @@
-# polygon.com-video
-https://www.polygon.com/ AI trainer. Comments results. Trained on unfiltered videos from https://static0.polygonimages.com/
+# polygon.com PixLab V1
+https://www.polygon.com/ AI video generator. Comments results. Trained on unfiltered videos from https://static0.polygonimages.com/
